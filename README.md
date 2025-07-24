@@ -1,6 +1,12 @@
 ## Hi there 👋
 
 
+
+
+I obtained my Bachelor of Engineering degree in Data Science and Big Data Technology from Chongqing University(985). 🔭
+Currently, I am pursuing a postgraduate degree at Tsinghua University, conducting interdisciplinary research in AI and education.💬
+Wash a better world⚡ 
+
 <!--
 **Zecoon/Zecoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
